@@ -1,5 +1,5 @@
 # BSMD
-Building structural model database
+Buildings structural models database
 
 See OrganisationalMap.png to get how the data should be organized.
 
