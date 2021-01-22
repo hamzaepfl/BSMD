@@ -1,7 +1,7 @@
 # BSMD
 Buildings structural models database
 
-See OrganisationalMap.png to get how the data should be organized.
+See OrganisationalMap.png to get how the data is organized.
 
 See RelationalDatabase.png to get how the data is related.
 
