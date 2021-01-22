@@ -1,7 +1,6 @@
 # BSMD
 Buildings structural models database
-
-See OrganisationalMap.png to get how the data is organized.
+1.  **Data organization** ![Organigram](https://octodex.github.com/images/yaktocat.png)
 
 See RelationalDatabase.png to get how the data is related.
 
