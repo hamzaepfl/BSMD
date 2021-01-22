@@ -4,7 +4,7 @@
 
 **BIM model**
 
-![BIM isometric](BIM{3D}.png)
+![BIM isometric](BIM{3D}.jpg)
 
 **EFM model**
 
