@@ -1,5 +1,9 @@
 # Building characteristics
 
+**3D streetview**
+
+![3D streetview](Streetview.png)
+
 General characteristics:
 -	Address: Rittergrasse 11, Basel Switzerland
 -	Office building, commercial and administration usage
@@ -15,11 +19,6 @@ Structural characteristics:
 -	Timber wood floor slabs
 -	Pitched roof 
 -	More massive stone masonry wall foundations 
-
-
-**3D streetview**
-
-![3D streetview](Streetview.png)
 
 **BIM model**
 
