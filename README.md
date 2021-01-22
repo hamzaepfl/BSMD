@@ -1,8 +1,20 @@
 # BSMD
 Buildings structural models database
 
-See OrganisationalMap.png to get how the data should be organized.
+  **Data organization** 
 
-See RelationalDatabase.png to get how the data is related.
+Follow the diagram below in order to organize data.
 
-See ProjectedRelationalDatabase.png to get how the data will be related once the interoperability issues will no longer exist.
+![Organigram](OrganisationalMap.png)
+
+  **Data relationship** 
+
+See below how data is currently related.
+
+![Entity Relationship Diagram](RelationalDatabase.png)
+
+  **Projected data relationship**
+
+See below how data will be related once the interoperability issues will be fixed.
+
+![Projected Entity Relationship Diagram](ProjectedRelationalDatabase.png) 
