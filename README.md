@@ -1,7 +1,13 @@
 # BSMD
 Buildings structural models database
-1.  **Data organization** ![Organigram](https://octodex.github.com/images/yaktocat.png)
+1.  **Data organization** 
+Follow the diagram below in order to organize data.
+![Organigram](OrganisationalMap.png)
 
-See RelationalDatabase.png to get how the data is related.
+1.  **Data relationship** 
+See below how data is currently related.
+![Entity Relationship Diagram](RelationalDatabase.png)
 
-See ProjectedRelationalDatabase.png to get how the data will be related once the interoperability issues will no longer exist.
+1.  ** Projected data relationship**
+See below how data will be related once the interoperability issues will be fixed.
+![Projected Entity Relationship Diagram] (ProjectedRelationalDatabase.png) 
