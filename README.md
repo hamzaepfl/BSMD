@@ -1,5 +1,5 @@
 # BSML
-Buildings Structural Models Library
+Building Structural Models Library
 
 Library of BIM models with their FEM counterparts and corresponding structural (mainly seismic) analysis.
 
